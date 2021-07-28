@@ -232,13 +232,6 @@ Please:</p>
 
 <h1 id="more">More</h1>
 <p>More stuff for best practices on OKR setting, High Deliverability, Engg. Team Appraisal Framework, System Design Best Practices, Leadership and Personality types can be found <a href="https://mishnit.github.io">here</a></p>
-
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
     
   </body>
 </html>

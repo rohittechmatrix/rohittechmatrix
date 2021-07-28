@@ -17,24 +17,9 @@
 <meta property="og:url" content="https://github.com/rohittechmatrix/rohittechmatrix/blob/1d77c3bfe25594f85a0c23312e9438b4d4fddb7a/My%20Tech%20Consultant%20README.html" />
 <meta property="og:site_name" content="mishnit.github.io" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="My Engineering Manager README" />
-<script type="application/ld+json">
-{"description":"My Blog - CORPOR8","url":"https://github.com/rohittechmatrix/rohittechmatrix/blob/1d77c3bfe25594f85a0c23312e9438b4d4fddb7a/My%20Tech%20Consultant%20README.html","@type":"WebPage","headline":"My Engineering Manager README","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=62f1ca75cbff3aa50ce1fea1b3ed05494633911a">
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://mishnit.github.io/">mishnit.github.io</a></h1>
-      
 
-      <h2 id="my-engineering-manager-readme">My Engineering Manager README</h2>
-
-<video width="640" height="360" controls="">
-  <source type="video/mp4" src="https://github.com/rohittechmatrix/rohittechmatrix/blob/sprint.mp4?raw=true" />
-</video>
 
 <h1 id="what-is-this">What is this?</h1>
 <p>This is inspired by <a href="https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe">Manager README</a>, a document that helps introduce you to my management style, philosophy, and expectations. The intended audience is primarily anyone who reports in to me, though anyone is free to read it — or even provide feedback on it! This is a living, incomplete (we never stop growing) and concise document. So, Let’s get to know me.</p>

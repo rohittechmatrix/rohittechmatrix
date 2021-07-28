@@ -13,13 +13,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="My Blog - CORPOR8" />
 <meta property="og:description" content="My Blog - CORPOR8" />
-<link rel="canonical" href="https://mishnit.github.io/Engg-Manager-README.html" />
-<meta property="og:url" content="https://mishnit.github.io/Engg-Manager-README.html" />
+<link rel="canonical" href="https://github.com/rohittechmatrix/rohittechmatrix/blob/1d77c3bfe25594f85a0c23312e9438b4d4fddb7a/My%20Tech%20Consultant%20README.html" />
+<meta property="og:url" content="https://github.com/rohittechmatrix/rohittechmatrix/blob/1d77c3bfe25594f85a0c23312e9438b4d4fddb7a/My%20Tech%20Consultant%20README.html" />
 <meta property="og:site_name" content="mishnit.github.io" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="My Engineering Manager README" />
 <script type="application/ld+json">
-{"description":"My Blog - CORPOR8","url":"https://mishnit.github.io/Engg-Manager-README.html","@type":"WebPage","headline":"My Engineering Manager README","@context":"https://schema.org"}</script>
+{"description":"My Blog - CORPOR8","url":"https://github.com/rohittechmatrix/rohittechmatrix/blob/1d77c3bfe25594f85a0c23312e9438b4d4fddb7a/My%20Tech%20Consultant%20README.html","@type":"WebPage","headline":"My Engineering Manager README","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=62f1ca75cbff3aa50ce1fea1b3ed05494633911a">
